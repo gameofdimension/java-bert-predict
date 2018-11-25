@@ -1,5 +1,5 @@
 # java-bert-predict
-turning bert pretrain checkpoint into saved model for a feature extracting demo in java
+turn bert pretrain checkpoint into saved model for a feature extracting demo in java
 
 # usage
 
